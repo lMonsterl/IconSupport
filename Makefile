@@ -1,4 +1,4 @@
-/usr/bin/make -f
+#!/usr/bin/make -f
 SUBPROJECTS = Extension extrainst_
 
 export APP_ID := com.chpwn.iconsupport
